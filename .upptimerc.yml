@@ -30,6 +30,10 @@ status-website:
     - title: 喵窝
       href: https://nya.one
 
+commitMessages:
+  commitAuthorName: "Nya Bot"
+  commitAuthorEmail: "bot@lcy.moe"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
 assignees:
