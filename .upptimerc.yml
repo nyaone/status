@@ -1,31 +1,36 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: nyaone # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: "喵窝 - 主站"
+    url: https://nya.one
+  - name: "喵窝 - 运行监控"
+    url: https://stats.nya.one
+  - name: "喵窝 - 静态资源"
+    url: https://file.nya.one/files/b116f00c-107e-4929-8b39-3fc2e9b8e5a2
+  - name: "喵窝 - 国内加速"
+    url: https://m.nya.one
+  - name: "喵窝 - Matrix"
+    url: https://nya.one/_matrix/client/versions
+  - name: "喵窝 - 中继"
+    url: https://relay.nya.one/stats
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.nya.one
+  logoUrl: https://file.nya.one/files/b116f00c-107e-4929-8b39-3fc2e9b8e5a2
+  name: "NyaOne Status"
+  introTitle: "喵窝 - 服务监控"
+  introMessage: "服务的状态可以在这里查看到哦"
   navbar:
-    - title: Status
+    - title: 首页
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: 喵窝
+      href: https://nya.one
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - Candinya
