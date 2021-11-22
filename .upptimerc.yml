@@ -32,7 +32,7 @@ status-website:
 
 commitMessages:
   commitAuthorName: "Nya Cat"
-  commitAuthorEmail: "bot@lcy.moe"
+  commitAuthorEmail: "cat@lcy.moe"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
