@@ -4,18 +4,20 @@
     "url": "https://nya.one",
     "icon": "https://favicons.githubusercontent.com/nya.one",
     "slug": "misskey",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 311,
-    "timeDay": 393,
-    "timeWeek": 318,
-    "timeMonth": 311,
-    "timeYear": 311,
-    "dailyMinutesDown": {}
+    "time": 313,
+    "timeDay": 380,
+    "timeWeek": 324,
+    "timeMonth": 313,
+    "timeYear": 313,
+    "dailyMinutesDown": {
+      "2021-12-14": 0
+    }
   },
   {
     "name": "Server Stats",
@@ -58,18 +60,20 @@
     "url": "https://m.nya.one",
     "icon": "https://favicons.githubusercontent.com/m.nya.one",
     "slug": "cn-optimize",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 376,
-    "timeWeek": 390,
-    "timeMonth": 412,
-    "timeYear": 412,
-    "dailyMinutesDown": {}
+    "time": 409,
+    "timeDay": 356,
+    "timeWeek": 383,
+    "timeMonth": 409,
+    "timeYear": 409,
+    "dailyMinutesDown": {
+      "2021-12-14": 0
+    }
   },
   {
     "name": "Matrix",
