@@ -85,18 +85,20 @@
     "url": "https://nya.one/_matrix/client/versions",
     "icon": "https://favicons.githubusercontent.com/nya.one",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 71,
-    "timeDay": 107,
-    "timeWeek": 61,
-    "timeMonth": 69,
+    "timeDay": 96,
+    "timeWeek": 64,
+    "timeMonth": 70,
     "timeYear": 71,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-09": 0
+    }
   },
   {
     "name": "Fediverse Relay",
