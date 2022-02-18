@@ -20,7 +20,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.nya.one
-  logoUrl: https://file.nya.one/files/b116f00c-107e-4929-8b39-3fc2e9b8e5a2
+  logoUrl: https://file.nya.one/misskey/53c09cd1-3bfa-490d-a957-7b74e203465d.webp
+  favicon: https://file.nya.one/misskey/53c09cd1-3bfa-490d-a957-7b74e203465d.webp
   name: "NyaOne Status"
   introTitle: "喵窝 - 服务监控"
   introMessage: "服务的状态可以在这里查看到哦"
