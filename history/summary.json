@@ -13,7 +13,7 @@
     "time": 322,
     "timeDay": 408,
     "timeWeek": 317,
-    "timeMonth": 315,
+    "timeMonth": 314,
     "timeYear": 322,
     "dailyMinutesDown": {
       "2022-03-23": 37,
@@ -37,7 +37,7 @@
     "time": 336,
     "timeDay": 467,
     "timeWeek": 390,
-    "timeMonth": 354,
+    "timeMonth": 352,
     "timeYear": 336,
     "dailyMinutesDown": {
       "2022-03-23": 35,
@@ -58,7 +58,7 @@
     "time": 85,
     "timeDay": 49,
     "timeWeek": 85,
-    "timeMonth": 96,
+    "timeMonth": 95,
     "timeYear": 85,
     "dailyMinutesDown": {}
   },
@@ -76,7 +76,7 @@
     "time": 387,
     "timeDay": 370,
     "timeWeek": 298,
-    "timeMonth": 321,
+    "timeMonth": 319,
     "timeYear": 387,
     "dailyMinutesDown": {
       "2022-04-15": 10,
@@ -114,19 +114,19 @@
     "url": "https://relay.nya.one/stats",
     "icon": "https://favicons.githubusercontent.com/relay.nya.one",
     "slug": "fediverse-relay",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "92.28%",
-    "uptimeWeek": "98.90%",
-    "uptimeMonth": "99.75%",
+    "uptimeDay": "91.31%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
     "uptimeYear": "99.94%",
-    "time": 561,
-    "timeDay": 2812,
-    "timeWeek": 1848,
-    "timeMonth": 1143,
-    "timeYear": 561,
+    "time": 563,
+    "timeDay": 2622,
+    "timeWeek": 1789,
+    "timeMonth": 1156,
+    "timeYear": 563,
     "dailyMinutesDown": {
-      "2022-05-09": 111,
+      "2022-05-09": 125,
       "2022-03-23": 31
     }
   }
