@@ -114,7 +114,7 @@
     "url": "https://relay.nya.one/stats",
     "icon": "https://favicons.githubusercontent.com/relay.nya.one",
     "slug": "fediverse-relay",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "94.78%",
     "uptimeWeek": "99.25%",
